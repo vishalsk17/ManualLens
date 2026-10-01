@@ -1,0 +1,6 @@
+{
+  "source_type": "synthetic",
+  "model": "ML-100",
+  "title": "Original fictional ManualLens ML-100 printer fixture",
+  "notes": "48 original questions, fixed 14 DEV / 34 TEST split. Not a real product or real-manual benchmark."
+}

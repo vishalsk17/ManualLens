@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+data/manuals/*
+!data/manuals/.gitkeep
+data/cache/*
+!data/cache/.gitkeep
+data/*.sqlite*
+eval/results/
+.streamlit/secrets.toml
